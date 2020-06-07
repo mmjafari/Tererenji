@@ -15,3 +15,4 @@ int main() {
 	printf("The total X square is %lf\n", sv);
 	return 0;
 }
+// chi-squared table can be found at https://www.statisticshowto.com/tables/chi-squared-table-right-tail/
